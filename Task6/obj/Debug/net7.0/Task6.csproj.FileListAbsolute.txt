@@ -1,0 +1,15 @@
+C:\Users\youri\Desktop\Git_education\Homework\Task6\bin\Debug\net7.0\Task6.exe
+C:\Users\youri\Desktop\Git_education\Homework\Task6\bin\Debug\net7.0\Task6.deps.json
+C:\Users\youri\Desktop\Git_education\Homework\Task6\bin\Debug\net7.0\Task6.runtimeconfig.json
+C:\Users\youri\Desktop\Git_education\Homework\Task6\bin\Debug\net7.0\Task6.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task6\bin\Debug\net7.0\Task6.pdb
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.csproj.AssemblyReference.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.AssemblyInfoInputs.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.AssemblyInfo.cs
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\refint\Task6.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.pdb
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\Task6.genruntimeconfig.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task6\obj\Debug\net7.0\ref\Task6.dll
