@@ -1,0 +1,15 @@
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task13\bin\Debug\net7.0\Task13.exe
+C:\Users\youri\Desktop\Git_education\Homework\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\Users\youri\Desktop\Git_education\Homework\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\Users\youri\Desktop\Git_education\Homework\Task13\bin\Debug\net7.0\Task13.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task13\bin\Debug\net7.0\Task13.pdb
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.pdb
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task13\obj\Debug\net7.0\ref\Task13.dll
