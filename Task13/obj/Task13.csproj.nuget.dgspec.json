@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj": {}
+    "c:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj": {
+    "c:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj",
+        "projectUniqueName": "c:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj",
         "projectName": "Task13",
-        "projectPath": "C:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj",
+        "projectPath": "c:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\Task13.csproj",
         "packagesPath": "C:\\Users\\youri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\obj\\",
+        "outputPath": "c:\\Users\\youri\\Desktop\\Git_education\\Homework\\Task13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\youri\\AppData\\Roaming\\NuGet\\NuGet.Config"

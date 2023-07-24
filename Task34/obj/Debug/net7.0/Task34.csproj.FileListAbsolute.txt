@@ -1,0 +1,15 @@
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.csproj.AssemblyReference.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.AssemblyInfoInputs.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.AssemblyInfo.cs
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task34\bin\Debug\net7.0\Task34.exe
+C:\Users\youri\Desktop\Git_education\Homework\Task34\bin\Debug\net7.0\Task34.deps.json
+C:\Users\youri\Desktop\Git_education\Homework\Task34\bin\Debug\net7.0\Task34.runtimeconfig.json
+C:\Users\youri\Desktop\Git_education\Homework\Task34\bin\Debug\net7.0\Task34.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task34\bin\Debug\net7.0\Task34.pdb
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\refint\Task34.dll
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.pdb
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\Task34.genruntimeconfig.cache
+C:\Users\youri\Desktop\Git_education\Homework\Task34\obj\Debug\net7.0\ref\Task34.dll
